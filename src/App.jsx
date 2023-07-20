@@ -8,8 +8,8 @@ function App() {
 
       return (
 
-            <div className=''>
-                  
+            <div className='text-red-500'>
+                  hola
             </div>
     
       )
